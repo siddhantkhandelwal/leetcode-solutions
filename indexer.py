@@ -1,7 +1,9 @@
-from os import listdir
-from os.path import isfile, join, splitext
+from os import listdir, makedirs, walk
+from os.path import isfile, join, splitext, isdir
+import shutil
 
 indexes = []
+topics = set()
 
 
 def extractAttributes(filename):
@@ -9,9 +11,11 @@ def extractAttributes(filename):
     with open(filename) as f:
         data = f.readlines()
         indexEntry.append(int(data[0][5:].split('\\')[0]))
-        indexEntry.append(data[0][4:])
-        indexEntry.append(data[2].split(' ')[1])
-        indexEntry.append(data[4][16:].split(',')[0])
+        indexEntry.append(data[0].split('\\.')[1].split(']')[0].strip())
+        indexEntry.append(data[2].split(' ')[1][2:-3])
+        indexEntry.append(data[4][16:].split(',')[0][1:].split(']')[0])
+        topics.add(''.join(data[4][16:].split(',')[
+                   0][1:].split(']')[0].split(" ")))
     indexes.append(indexEntry)
 
 
@@ -31,9 +35,11 @@ def generateMarkDown():
 
     for entry in indexes:
         markdown += str("| ")
-        for e in entry[1:]:
-            to_add = str(e.rstrip()) + str(" | ")
-            markdown += to_add
+        markdown += "[" + str(entry[0]).rstrip() + ". " + str(entry[1].rstrip()) + "]" + "(" + ''.join(
+            entry[3].split(" ")) + "/" + str(entry[0]) + ".md" + ")" + str(" | ")
+        markdown += str(entry[2].rstrip()) + str(" | ")
+        markdown += "[" + str(entry[3]) + "]" + "(" + \
+            str(''.join(entry[3].split(" "))) + "/" + ")" + str(" | ")
         markdown += "\n"
 
     return markdown + "\n"
@@ -41,7 +47,7 @@ def generateMarkDown():
 
 def writeIndex(indexFileName):
     with open(indexFileName, "w", encoding="utf-8") as f:
-        header = "<br><i>Star the Repository if it helps you :smile:</i>\n # Leetcode Solutions \n My solutions to leetcode problems solved during Placement Season \n ## Index"
+        header = "<i>Star the Repository if it helps you :smile:</i>\n # Leetcode Solutions \n My solutions to leetcode problems solved during Placement Season \n ## Index"
         footer = "<br><br><br>Index created using indexer script"
         markdown = header
         markdown += generateMarkDown()
@@ -60,10 +66,29 @@ def getFilesCWD():
     return solutionsFiles
 
 
+def createDirectories():
+    for topic in topics:
+        if not isdir(topic):
+            makedirs(topic)
+
+
+def moveFiles():
+    for index in indexes:
+        topic = index[3]
+        try:
+            shutil.move(str(index[0]) + ".md",
+                        join(''.join(index[3].split(" ")), str(index[0]) + ".md"))
+        except:
+            print("error in moving")
+            print(index)
+
+
 def driver():
     solutionFiles = getFilesCWD()
     for f in solutionFiles:
         extractAttributes(f)
+    createDirectories()
+    moveFiles()
     writeIndex("README.md")
 
 

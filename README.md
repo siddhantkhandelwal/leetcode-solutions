@@ -1,251 +1,251 @@
-<br><i>Star the Repository if it helps you :smile:</i>
+<i>Star the Repository if it helps you :smile:</i>
  # Leetcode Solutions 
  My solutions to leetcode problems solved during Placement Season 
  ## Index
 |  Title | Difficulty | Related Topic |
 |-------------- | -------------- | -------------- | 
-| [1\. Two Sum](https://leetcode.com/problems/two-sum/) | **Easy** | [Array](https://leetcode.com/tag/array/) | 
-| [2\. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | **Medium** | [Linked List](https://leetcode.com/tag/linked-list/) | 
-| [3\. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | **Medium** | [Hash Table](https://leetcode.com/tag/hash-table/) | 
-| [4\. Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | **Hard** | [Array](https://leetcode.com/tag/array/) | 
-| [5\. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | **Medium** | [String](https://leetcode.com/tag/string/) | 
-| [10\. Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/) | **Hard** | [String](https://leetcode.com/tag/string/) | 
-| [11\. Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | **Medium** | [Array](https://leetcode.com/tag/array/) | 
-| [13\. Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | **Easy** | [Math](https://leetcode.com/tag/math/) | 
-| [15\. 3Sum](https://leetcode.com/problems/3sum/) | **Medium** | [Array](https://leetcode.com/tag/array/) | 
-| [17\. Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | **Medium** | [String](https://leetcode.com/tag/string/) | 
-| [20\. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | **Easy** | [String](https://leetcode.com/tag/string/) | 
-| [23\. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | **Hard** | [Linked List](https://leetcode.com/tag/linked-list/) | 
-| [24\. Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | **Medium** | [Linked List](https://leetcode.com/tag/linked-list/) | 
-| [31\. Next Permutation](https://leetcode.com/problems/next-permutation/) | **Medium** | [Array](https://leetcode.com/tag/array/) | 
-| [33\. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | **Medium** | [Array](https://leetcode.com/tag/array/) | 
-| [34\. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | **Medium** | [Array](https://leetcode.com/tag/array/) | 
-| [39\. Combination Sum](https://leetcode.com/problems/combination-sum/) | **Medium** | [Array](https://leetcode.com/tag/array/) | 
-| [40\. Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) | **Medium** | [Array](https://leetcode.com/tag/array/) | 
-| [41\. First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | **Hard** | [Array](https://leetcode.com/tag/array/) | 
-| [42\. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | **Hard** | [Array](https://leetcode.com/tag/array/) | 
-| [44\. Wildcard Matching](https://leetcode.com/problems/wildcard-matching/) | **Hard** | [String](https://leetcode.com/tag/string/) | 
-| [45\. Jump Game II](https://leetcode.com/problems/jump-game-ii/) | **Hard** | [Array](https://leetcode.com/tag/array/) | 
-| [46\. Permutations](https://leetcode.com/problems/permutations/) | **Medium** | [Backtracking](https://leetcode.com/tag/backtracking/) | 
-| [47\. Permutations II](https://leetcode.com/problems/permutations-ii/) | **Medium** | [Backtracking](https://leetcode.com/tag/backtracking/) | 
-| [50\. Pow(x, n)](https://leetcode.com/problems/powx-n/) | **Medium** | [Math](https://leetcode.com/tag/math/) | 
-| [53\. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | **Easy** | [Array](https://leetcode.com/tag/array/) | 
-| [55\. Jump Game](https://leetcode.com/problems/jump-game/) | **Medium** | [Array](https://leetcode.com/tag/array/) | 
-| [56\. Merge Intervals](https://leetcode.com/problems/merge-intervals/) | **Medium** | [Array](https://leetcode.com/tag/array/) | 
-| [57\. Insert Interval](https://leetcode.com/problems/insert-interval/) | **Medium** | [Array](https://leetcode.com/tag/array/) | 
-| [62\. Unique Paths](https://leetcode.com/problems/unique-paths/) | **Medium** | [Array](https://leetcode.com/tag/array/) | 
-| [63\. Unique Paths II](https://leetcode.com/problems/unique-paths-ii/) | **Medium** | [Array](https://leetcode.com/tag/array/) | 
-| [64\. Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | **Medium** | [Array](https://leetcode.com/tag/array/) | 
-| [70\. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | **Easy** | [Dynamic Programming](https://leetcode.com/tag/dynamic-programming/) | 
-| [72\. Edit Distance](https://leetcode.com/problems/edit-distance/) | **Hard** | [String](https://leetcode.com/tag/string/) | 
-| [73\. Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | **Medium** | [Array](https://leetcode.com/tag/array/) | 
-| [76\. Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | **Hard** | [Hash Table](https://leetcode.com/tag/hash-table/) | 
-| [77\. Combinations](https://leetcode.com/problems/combinations/) | **Medium** | [Backtracking](https://leetcode.com/tag/backtracking/) | 
-| [78\. Subsets](https://leetcode.com/problems/subsets/) | **Medium** | [Array](https://leetcode.com/tag/array/) | 
-| [81\. Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) | **Medium** | [Array](https://leetcode.com/tag/array/) | 
-| [86\. Partition List](https://leetcode.com/problems/partition-list/) | **Medium** | [Linked List](https://leetcode.com/tag/linked-list/) | 
-| [90\. Subsets II](https://leetcode.com/problems/subsets-ii/) | **Medium** | [Array](https://leetcode.com/tag/array/) | 
-| [91\. Decode Ways](https://leetcode.com/problems/decode-ways/) | **Medium** | [String](https://leetcode.com/tag/string/) | 
-| [92\. Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/) | **Medium** | [Linked List](https://leetcode.com/tag/linked-list/) | 
-| [94\. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | **Medium** | [Hash Table](https://leetcode.com/tag/hash-table/) | 
-| [95\. Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/) | **Medium** | [Dynamic Programming](https://leetcode.com/tag/dynamic-programming/) | 
-| [96\. Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/) | **Medium** | [Dynamic Programming](https://leetcode.com/tag/dynamic-programming/) | 
-| [98\. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | **Medium** | [Tree](https://leetcode.com/tag/tree/) | 
-| [102\. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | **Medium** | [Tree](https://leetcode.com/tag/tree/) | 
-| [103\. Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) | **Medium** | [Stack](https://leetcode.com/tag/stack/) | 
-| [104\. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | **Easy** | [Tree](https://leetcode.com/tag/tree/) | 
-| [105\. Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | **Medium** | [Array](https://leetcode.com/tag/array/) | 
-| [106\. Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/) | **Medium** | [Array](https://leetcode.com/tag/array/) | 
-| [107\. Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/) | **Easy** | [Tree](https://leetcode.com/tag/tree/) | 
-| [111\. Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | **Easy** | [Tree](https://leetcode.com/tag/tree/) | 
-| [112\. Path Sum](https://leetcode.com/problems/path-sum/) | **Easy** | [Tree](https://leetcode.com/tag/tree/) | 
-| [115\. Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/) | **Hard** | [String](https://leetcode.com/tag/string/) | 
-| [116\. Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) | **Medium** | [Tree](https://leetcode.com/tag/tree/) | 
-| [121\. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | **Easy** | [Array](https://leetcode.com/tag/array/) | 
-| [122\. Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | **Easy** | [Array](https://leetcode.com/tag/array/) | 
-| [123\. Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/) | **Hard** | [Array](https://leetcode.com/tag/array/) | 
-| [124\. Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | **Hard** | [Tree](https://leetcode.com/tag/tree/) | 
-| [127\. Word Ladder](https://leetcode.com/problems/word-ladder/) | **Medium** | [Breadth-first Search](https://leetcode.com/tag/breadth-first-search/) | 
-| [129\. Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/) | **Medium** | [Tree](https://leetcode.com/tag/tree/) | 
-| [130\. Surrounded Regions](https://leetcode.com/problems/surrounded-regions/) | **Medium** | [Depth-first Search](https://leetcode.com/tag/depth-first-search/) | 
-| [131\. Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/) | **Medium** | [Dynamic Programming](https://leetcode.com/tag/dynamic-programming/) | 
-| [136\. Single Number](https://leetcode.com/problems/single-number/) | **Easy** | [Hash Table](https://leetcode.com/tag/hash-table/) | 
-| [138\. Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | **Medium** | [Hash Table](https://leetcode.com/tag/hash-table/) | 
-| [141\. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | **Easy** | [Linked List](https://leetcode.com/tag/linked-list/) | 
-| [142\. Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | **Medium** | [Linked List](https://leetcode.com/tag/linked-list/) | 
-| [143\. Reorder List](https://leetcode.com/problems/reorder-list/) | **Medium** | [Linked List](https://leetcode.com/tag/linked-list/) | 
-| [144\. Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | **Medium** | [Stack](https://leetcode.com/tag/stack/) | 
-| [145\. Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) | **Medium** | [Stack](https://leetcode.com/tag/stack/) | 
-| [146\. LRU Cache](https://leetcode.com/problems/lru-cache/) | **Medium** | [Design](https://leetcode.com/tag/design/) | 
-| [149\. Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/) | **Hard** | [Hash Table](https://leetcode.com/tag/hash-table/) | 
-| [152\. Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) | **Medium** | [Array](https://leetcode.com/tag/array/) | 
-| [153\. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | **Medium** | [Array](https://leetcode.com/tag/array/) | 
-| [154\. Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/) | **Hard** | [Array](https://leetcode.com/tag/array/) | 
-| [162\. Find Peak Element](https://leetcode.com/problems/find-peak-element/) | **Medium** | [Array](https://leetcode.com/tag/array/) | 
-| [167\. Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | **Easy** | [Array](https://leetcode.com/tag/array/) | 
-| [169\. Majority Element](https://leetcode.com/problems/majority-element/) | **Easy** | [Array](https://leetcode.com/tag/array/) | 
-| [173\. Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/) | **Medium** | [Stack](https://leetcode.com/tag/stack/) | 
-| [179\. Largest Number](https://leetcode.com/problems/largest-number/) | **Medium** | [Sort](https://leetcode.com/tag/sort/) | 
-| [188\. Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/) | **Hard** | [Dynamic Programming](https://leetcode.com/tag/dynamic-programming/) | 
-| [190\. Reverse Bits](https://leetcode.com/problems/reverse-bits/) | **Easy** | [Bit Manipulation](https://leetcode.com/tag/bit-manipulation/) | 
-| [191\. Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | **Easy** | [Bit Manipulation](https://leetcode.com/tag/bit-manipulation/) | 
-| [198\. House Robber](https://leetcode.com/problems/house-robber/) | **Easy** | [Dynamic Programming](https://leetcode.com/tag/dynamic-programming/) | 
-| [199\. Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) | **Medium** | [Tree](https://leetcode.com/tag/tree/) | 
-| [200\. Number of Islands](https://leetcode.com/problems/number-of-islands/) | **Medium** | [Depth-first Search](https://leetcode.com/tag/depth-first-search/) | 
-| [204\. Count Primes](https://leetcode.com/problems/count-primes/) | **Easy** | [Hash Table](https://leetcode.com/tag/hash-table/) | 
-| [206\. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | **Easy** | [Linked List](https://leetcode.com/tag/linked-list/) | 
-| [207\. Course Schedule](https://leetcode.com/problems/course-schedule/) | **Medium** | [Depth-first Search](https://leetcode.com/tag/depth-first-search/) | 
-| [209\. Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | **Medium** | [Array](https://leetcode.com/tag/array/) | 
-| [210\. Course Schedule II](https://leetcode.com/problems/course-schedule-ii/) | **Medium** | [Depth-first Search](https://leetcode.com/tag/depth-first-search/) | 
-| [215\. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | **Medium** | [Divide and Conquer](https://leetcode.com/tag/divide-and-conquer/) | 
-| [221\. Maximal Square](https://leetcode.com/problems/maximal-square/) | **Medium** | [Dynamic Programming](https://leetcode.com/tag/dynamic-programming/) | 
-| [227\. Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/) | **Medium** | [String](https://leetcode.com/tag/string/) | 
-| [229\. Majority Element II](https://leetcode.com/problems/majority-element-ii/) | **Medium** | [Array](https://leetcode.com/tag/array/) | 
-| [230\. Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | **Medium** | [Binary Search](https://leetcode.com/tag/binary-search/) | 
-| [236\. Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | **Medium** | [Tree](https://leetcode.com/tag/tree/) | 
-| [239\. Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) | **Hard** | [Heap](https://leetcode.com/tag/heap/) | 
-| [257\. Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/) | **Easy** | [Tree](https://leetcode.com/tag/tree/) | 
-| [263\. Ugly Number](https://leetcode.com/problems/ugly-number/) | **Easy** | [Math](https://leetcode.com/tag/math/) | 
-| [264\. Ugly Number II](https://leetcode.com/problems/ugly-number-ii/) | **Medium** | [Math](https://leetcode.com/tag/math/) | 
-| [268\. Missing Number](https://leetcode.com/problems/missing-number/) | **Easy** | [Array](https://leetcode.com/tag/array/) | 
-| [278\. First Bad Version](https://leetcode.com/problems/first-bad-version/) | **Easy** | [Binary Search](https://leetcode.com/tag/binary-search/) | 
-| [279\. Perfect Squares](https://leetcode.com/problems/perfect-squares/) | **Medium** | [Math](https://leetcode.com/tag/math/) | 
-| [287\. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | **Medium** | [Array](https://leetcode.com/tag/array/) | 
-| [295\. Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) | **Hard** | [Heap](https://leetcode.com/tag/heap/) | 
-| [299\. Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/) | **Medium** | [Hash Table](https://leetcode.com/tag/hash-table/) | 
-| [300\. Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | **Medium** | [Binary Search](https://leetcode.com/tag/binary-search/) | 
-| [310\. Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/) | **Medium** | [Breadth-first Search](https://leetcode.com/tag/breadth-first-search/) | 
-| [316\. Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/) | **Medium** | [String](https://leetcode.com/tag/string/) | 
-| [322\. Coin Change](https://leetcode.com/problems/coin-change/) | **Medium** | [Dynamic Programming](https://leetcode.com/tag/dynamic-programming/) | 
-| [328\. Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) | **Medium** | [Linked List](https://leetcode.com/tag/linked-list/) | 
-| [338\. Counting Bits](https://leetcode.com/problems/counting-bits/) | **Medium** | [Dynamic Programming](https://leetcode.com/tag/dynamic-programming/) | 
-| [377\. Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/) | **Medium** | [Dynamic Programming](https://leetcode.com/tag/dynamic-programming/) | 
-| [389\. Find the Difference](https://leetcode.com/problems/find-the-difference/) | **Easy** | [Hash Table](https://leetcode.com/tag/hash-table/) | 
-| [392\. Is Subsequence](https://leetcode.com/problems/is-subsequence/) | **Easy** | [Binary Search](https://leetcode.com/tag/binary-search/) | 
-| [416\. Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/) | **Medium** | [Dynamic Programming](https://leetcode.com/tag/dynamic-programming/) | 
-| [429\. N-ary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal/) | **Medium** | [Tree](https://leetcode.com/tag/tree/) | 
-| [435\. Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/) | **Medium** | [Greedy](https://leetcode.com/tag/greedy/) | 
-| [437\. Path Sum III](https://leetcode.com/problems/path-sum-iii/) | **Medium** | [Tree](https://leetcode.com/tag/tree/) | 
-| [442\. Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/) | **Medium** | [Array](https://leetcode.com/tag/array/) | 
-| [449\. Serialize and Deserialize BST](https://leetcode.com/problems/serialize-and-deserialize-bst/) | **Medium** | [Tree](https://leetcode.com/tag/tree/) | 
-| [450\. Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/) | **Medium** | [Tree](https://leetcode.com/tag/tree/) | 
-| [455\. Assign Cookies](https://leetcode.com/problems/assign-cookies/) | **Easy** | [Greedy](https://leetcode.com/tag/greedy/) | 
-| [459\. Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/) | **Easy** | [String](https://leetcode.com/tag/string/) | 
-| [461\. Hamming Distance](https://leetcode.com/problems/hamming-distance/) | **Easy** | [Bit Manipulation](https://leetcode.com/tag/bit-manipulation/) | 
-| [496\. Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) | **Easy** | [Stack](https://leetcode.com/tag/stack/) | 
-| [503\. Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/) | **Medium** | [Stack](https://leetcode.com/tag/stack/) | 
-| [513\. Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value/) | **Medium** | [Tree](https://leetcode.com/tag/tree/) | 
-| [515\. Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/) | **Medium** | [Tree](https://leetcode.com/tag/tree/) | 
-| [516\. Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/) | **Medium** | [Dynamic Programming](https://leetcode.com/tag/dynamic-programming/) | 
-| [523\. Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum/) | **Medium** | [Math](https://leetcode.com/tag/math/) | 
-| [540\. Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/) | **Medium** | [Binary Search](https://leetcode.com/tag/binary-search/) | 
-| [542\. 01 Matrix](https://leetcode.com/problems/01-matrix/) | **Medium** | [Depth-first Search](https://leetcode.com/tag/depth-first-search/) | 
-| [560\. Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | **Medium** | [Array](https://leetcode.com/tag/array/) | 
-| [576\. Out of Boundary Paths](https://leetcode.com/problems/out-of-boundary-paths/) | **Medium** | [Dynamic Programming](https://leetcode.com/tag/dynamic-programming/) | 
-| [581\. Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/) | **Medium** | [Array](https://leetcode.com/tag/array/) | 
-| [621\. Task Scheduler](https://leetcode.com/problems/task-scheduler/) | **Medium** | [Array](https://leetcode.com/tag/array/) | 
-| [637\. Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/) | **Easy** | [Tree](https://leetcode.com/tag/tree/) | 
-| [653\. Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/) | **Easy** | [Tree](https://leetcode.com/tag/tree/) | 
-| [654\. Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree/) | **Medium** | [Tree](https://leetcode.com/tag/tree/) | 
-| [662\. Maximum Width of Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree/) | **Medium** | [Tree](https://leetcode.com/tag/tree/) | 
-| [665\. Non-decreasing Array](https://leetcode.com/problems/non-decreasing-array/) | **Easy** | [Array](https://leetcode.com/tag/array/) | 
-| [670\. Maximum Swap](https://leetcode.com/problems/maximum-swap/) | **Medium** | [Array](https://leetcode.com/tag/array/) | 
-| [673\. Number of Longest Increasing Subsequence](https://leetcode.com/problems/number-of-longest-increasing-subsequence/) | **Medium** | [Dynamic Programming](https://leetcode.com/tag/dynamic-programming/) | 
-| [684\. Redundant Connection](https://leetcode.com/problems/redundant-connection/) | **Medium** | [Tree](https://leetcode.com/tag/tree/) | 
-| [687\. Longest Univalue Path](https://leetcode.com/problems/longest-univalue-path/) | **Medium** | [Tree](https://leetcode.com/tag/tree/) | 
-| [693\. Binary Number with Alternating Bits](https://leetcode.com/problems/binary-number-with-alternating-bits/) | **Easy** | [Bit Manipulation](https://leetcode.com/tag/bit-manipulation/) | 
-| [701\. Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/) | **Medium** | [Tree](https://leetcode.com/tag/tree/) | 
-| [704\. Binary Search](https://leetcode.com/problems/binary-search/) | **Easy** | [Binary Search](https://leetcode.com/tag/binary-search/) | 
-| [709\. To Lower Case](https://leetcode.com/problems/to-lower-case/) | **Easy** | [String](https://leetcode.com/tag/string/) | 
-| [713\. Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/) | **Medium** | [Array](https://leetcode.com/tag/array/) | 
-| [718\. Maximum Length of Repeated Subarray](https://leetcode.com/problems/maximum-length-of-repeated-subarray/) | **Medium** | [Array](https://leetcode.com/tag/array/) | 
-| [724\. Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | **Easy** | [Array](https://leetcode.com/tag/array/) | 
-| [731\. My Calendar II](https://leetcode.com/problems/my-calendar-ii/) | **Medium** | [Ordered Map](https://leetcode.com/tag/ordered-map/) | 
-| [743\. Network Delay Time](https://leetcode.com/problems/network-delay-time/) | **Medium** | [Heap](https://leetcode.com/tag/heap/) | 
-| [746\. Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) | **Easy** | [Array](https://leetcode.com/tag/array/) | 
-| [763\. Partition Labels](https://leetcode.com/problems/partition-labels/) | **Medium** | [Two Pointers](https://leetcode.com/tag/two-pointers/) | 
-| [766\. Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/) | **Easy** | [Array](https://leetcode.com/tag/array/) | 
-| [784\. Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/) | **Medium** | [Backtracking](https://leetcode.com/tag/backtracking/) | 
-| [785\. Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/) | **Medium** | [Depth-first Search](https://leetcode.com/tag/depth-first-search/) | 
-| [787\. Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/) | **Medium** | [Dynamic Programming](https://leetcode.com/tag/dynamic-programming/) | 
-| [797\. All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/) | **Medium** | [Backtracking](https://leetcode.com/tag/backtracking/) | 
-| [802\. Find Eventual Safe States](https://leetcode.com/problems/find-eventual-safe-states/) | **Medium** | [Depth-first Search](https://leetcode.com/tag/depth-first-search/) | 
-| [814\. Binary Tree Pruning](https://leetcode.com/problems/binary-tree-pruning/) | **Medium** | [Tree](https://leetcode.com/tag/tree/) | 
-| [841\. Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/) | **Medium** | [Depth-first Search](https://leetcode.com/tag/depth-first-search/) | 
-| [848\. Shifting Letters](https://leetcode.com/problems/shifting-letters/) | **Medium** | [String](https://leetcode.com/tag/string/) | 
-| [859\. Buddy Strings](https://leetcode.com/problems/buddy-strings/) | **Easy** | [String](https://leetcode.com/tag/string/) | 
-| [860\. Lemonade Change](https://leetcode.com/problems/lemonade-change/) | **Easy** | [Greedy](https://leetcode.com/tag/greedy/) | 
-| [863\. All Nodes Distance K in Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/) | **Medium** | [Tree](https://leetcode.com/tag/tree/) | 
-| [876\. Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | **Easy** | [Linked List](https://leetcode.com/tag/linked-list/) | 
-| [901\. Online Stock Span](https://leetcode.com/problems/online-stock-span/) | **Medium** | [Stack](https://leetcode.com/tag/stack/) | 
-| [907\. Sum of Subarray Minimums](https://leetcode.com/problems/sum-of-subarray-minimums/) | **Medium** | [Array](https://leetcode.com/tag/array/) | 
-| [918\. Maximum Sum Circular Subarray](https://leetcode.com/problems/maximum-sum-circular-subarray/) | **Medium** | [Array](https://leetcode.com/tag/array/) | 
-| [921\. Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/) | **Medium** | [Stack](https://leetcode.com/tag/stack/) | 
-| [935\. Knight Dialer](https://leetcode.com/problems/knight-dialer/) | **Medium** | [Dynamic Programming](https://leetcode.com/tag/dynamic-programming/) | 
-| [938\. Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/) | **Easy** | [Tree](https://leetcode.com/tag/tree/) | 
-| [939\. Minimum Area Rectangle](https://leetcode.com/problems/minimum-area-rectangle/) | **Medium** | [Hash Table](https://leetcode.com/tag/hash-table/) | 
-| [940\. Distinct Subsequences II](https://leetcode.com/problems/distinct-subsequences-ii/) | **Hard** | [Dynamic Programming](https://leetcode.com/tag/dynamic-programming/) | 
-| [941\. Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/) | **Easy** | [Array](https://leetcode.com/tag/array/) | 
-| [951\. Flip Equivalent Binary Trees](https://leetcode.com/problems/flip-equivalent-binary-trees/) | **Medium** | [Tree](https://leetcode.com/tag/tree/) | 
-| [968\. Binary Tree Cameras](https://leetcode.com/problems/binary-tree-cameras/) | **Hard** | [Dynamic Programming](https://leetcode.com/tag/dynamic-programming/) | 
-| [974\. Subarray Sums Divisible by K](https://leetcode.com/problems/subarray-sums-divisible-by-k/) | **Medium** | [Array](https://leetcode.com/tag/array/) | 
-| [979\. Distribute Coins in Binary Tree](https://leetcode.com/problems/distribute-coins-in-binary-tree/) | **Medium** | [Tree](https://leetcode.com/tag/tree/) | 
-| [981\. Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/) | **Medium** | [Hash Table](https://leetcode.com/tag/hash-table/) | 
-| [997\. Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/) | **Easy** | [Graph](https://leetcode.com/tag/graph/) | 
-| [1008\. Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/) | **Medium** | [Tree](https://leetcode.com/tag/tree/) | 
-| [1019\. Next Greater Node In Linked List](https://leetcode.com/problems/next-greater-node-in-linked-list/) | **Medium** | [Linked List](https://leetcode.com/tag/linked-list/) | 
-| [1025\. Divisor Game](https://leetcode.com/problems/divisor-game/) | **Easy** | [Math](https://leetcode.com/tag/math/) | 
-| [1026\. Maximum Difference Between Node and Ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/) | **Medium** | [Tree](https://leetcode.com/tag/tree/) | 
-| [1043\. Partition Array for Maximum Sum](https://leetcode.com/problems/partition-array-for-maximum-sum/) | **Medium** | [Dynamic Programming](https://leetcode.com/tag/dynamic-programming/) | 
-| [1081\. Smallest Subsequence of Distinct Characters](https://leetcode.com/problems/smallest-subsequence-of-distinct-characters/) | **Medium** | [String](https://leetcode.com/tag/string/) | 
-| [1094\. Car Pooling](https://leetcode.com/problems/car-pooling/) | **Medium** | [Greedy](https://leetcode.com/tag/greedy/) | 
-| [1104\. Path In Zigzag Labelled Binary Tree](https://leetcode.com/problems/path-in-zigzag-labelled-binary-tree/) | **Medium** | [Math](https://leetcode.com/tag/math/) | 
-| [1130\. Minimum Cost Tree From Leaf Values](https://leetcode.com/problems/minimum-cost-tree-from-leaf-values/) | **Medium** | [Dynamic Programming](https://leetcode.com/tag/dynamic-programming/) | 
-| [1143\. Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) | **Medium** | [Dynamic Programming](https://leetcode.com/tag/dynamic-programming/) | 
-| [1161\. Maximum Level Sum of a Binary Tree](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/) | **Medium** | [Tree](https://leetcode.com/tag/tree/) | 
-| [1171\. Remove Zero Sum Consecutive Nodes from Linked List](https://leetcode.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list/) | **Medium** | [Linked List](https://leetcode.com/tag/linked-list/) | 
-| [1186\. Maximum Subarray Sum with One Deletion](https://leetcode.com/problems/maximum-subarray-sum-with-one-deletion/) | **Medium** | [Dynamic Programming](https://leetcode.com/tag/dynamic-programming/) | 
-| [1191\. K-Concatenation Maximum Sum](https://leetcode.com/problems/k-concatenation-maximum-sum/) | **Medium** | [Dynamic Programming](https://leetcode.com/tag/dynamic-programming/) | 
-| [1221\. Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/) | **Easy** | [String](https://leetcode.com/tag/string/) | 
-| [1222\. Queens That Can Attack the King](https://leetcode.com/problems/queens-that-can-attack-the-king/) | **Medium** | [Array](https://leetcode.com/tag/array/) | 
-| [1261\. Find Elements in a Contaminated Binary Tree](https://leetcode.com/problems/find-elements-in-a-contaminated-binary-tree/) | **Medium** | [Hash Table](https://leetcode.com/tag/hash-table/) | 
-| [1267\. Count Servers that Communicate](https://leetcode.com/problems/count-servers-that-communicate/) | **Medium** | [Array](https://leetcode.com/tag/array/) | 
-| [1290\. Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/) | **Easy** | [Linked List](https://leetcode.com/tag/linked-list/) | 
-| [1302\. Deepest Leaves Sum](https://leetcode.com/problems/deepest-leaves-sum/) | **Medium** | [Tree](https://leetcode.com/tag/tree/) | 
-| [1305\. All Elements in Two Binary Search Trees](https://leetcode.com/problems/all-elements-in-two-binary-search-trees/) | **Medium** | [Sort](https://leetcode.com/tag/sort/) | 
-| [1315\. Sum of Nodes with Even-Valued Grandparent](https://leetcode.com/problems/sum-of-nodes-with-even-valued-grandparent/) | **Medium** | [Tree](https://leetcode.com/tag/tree/) | 
-| [1319\. Number of Operations to Make Network Connected](https://leetcode.com/problems/number-of-operations-to-make-network-connected/) | **Medium** | [Depth-first Search](https://leetcode.com/tag/depth-first-search/) | 
-| [1325\. Delete Leaves With a Given Value](https://leetcode.com/problems/delete-leaves-with-a-given-value/) | **Medium** | [Tree](https://leetcode.com/tag/tree/) | 
-| [1338\. Reduce Array Size to The Half](https://leetcode.com/problems/reduce-array-size-to-the-half/) | **Medium** | [Array](https://leetcode.com/tag/array/) | 
-| [1339\. Maximum Product of Splitted Binary Tree](https://leetcode.com/problems/maximum-product-of-splitted-binary-tree/) | **Medium** | [Dynamic Programming](https://leetcode.com/tag/dynamic-programming/) | 
-| [1342\. Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) | **Easy** | [Bit Manipulation](https://leetcode.com/tag/bit-manipulation/) | 
-| [1344\. Angle Between Hands of a Clock](https://leetcode.com/problems/angle-between-hands-of-a-clock/) | **Medium** | [Math](https://leetcode.com/tag/math/) | 
-| [1352\. Product of the Last K Numbers](https://leetcode.com/problems/product-of-the-last-k-numbers/) | **Medium** | [Array](https://leetcode.com/tag/array/) | 
-| [1376\. Time Needed to Inform All Employees](https://leetcode.com/problems/time-needed-to-inform-all-employees/) | **Medium** | [Depth-first Search](https://leetcode.com/tag/depth-first-search/) | 
-| [1381\. Design a Stack With Increment Operation](https://leetcode.com/problems/design-a-stack-with-increment-operation/) | **Medium** | [Stack](https://leetcode.com/tag/stack/) | 
-| [1395\. Count Number of Teams](https://leetcode.com/problems/count-number-of-teams/) | **Medium** | [Array](https://leetcode.com/tag/array/) | 
-| [1405\. Longest Happy String](https://leetcode.com/problems/longest-happy-string/) | **Medium** | [Dynamic Programming](https://leetcode.com/tag/dynamic-programming/) | 
-| [1431\. Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) | **Easy** | [Array](https://leetcode.com/tag/array/) | 
-| [1448\. Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/) | **Medium** | [Tree](https://leetcode.com/tag/tree/) | 
-| [1462\. Course Schedule IV](https://leetcode.com/problems/course-schedule-iv/) | **Medium** | [Graph](https://leetcode.com/tag/graph/) | 
-| [1465\. Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts](https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts/) | **Medium** | [Array](https://leetcode.com/tag/array/) | 
-| [1470\. Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/) | **Easy** | [Array](https://leetcode.com/tag/array/) | 
-| [1480\. Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) | **Easy** | [Array](https://leetcode.com/tag/array/) | 
-| [1492\. The kth Factor of n](https://leetcode.com/problems/the-kth-factor-of-n/) | **Medium** | [Math](https://leetcode.com/tag/math/) | 
-| [1540\. Can Convert String in K Moves](https://leetcode.com/problems/can-convert-string-in-k-moves/) | **Medium** | [String](https://leetcode.com/tag/string/) | 
-| [1551\. Minimum Operations to Make Array Equal](https://leetcode.com/problems/minimum-operations-to-make-array-equal/) | **Medium** | [Math](https://leetcode.com/tag/math/) | 
-| [1557\. Minimum Number of Vertices to Reach All Nodes](https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/) | **Medium** | [Graph](https://leetcode.com/tag/graph/) | 
-| [1574\. Shortest Subarray to be Removed to Make Array Sorted](https://leetcode.com/problems/shortest-subarray-to-be-removed-to-make-array-sorted/) | **Medium** | [Array](https://leetcode.com/tag/array/) | 
-| [1578\. Minimum Deletion Cost to Avoid Repeating Letters](https://leetcode.com/problems/minimum-deletion-cost-to-avoid-repeating-letters/) | **Medium** | [Greedy](https://leetcode.com/tag/greedy/) | 
-| [1594\. Maximum Non Negative Product in a Matrix](https://leetcode.com/problems/maximum-non-negative-product-in-a-matrix/) | **Medium** | [Dynamic Programming](https://leetcode.com/tag/dynamic-programming/) | 
-| [1609\. Even Odd Tree](https://leetcode.com/problems/even-odd-tree/) | **Medium** | [Tree](https://leetcode.com/tag/tree/) | 
-| [1626\. Best Team With No Conflicts](https://leetcode.com/problems/best-team-with-no-conflicts/) | **Medium** | [Dynamic Programming](https://leetcode.com/tag/dynamic-programming/) | 
-| [1631\. Path With Minimum Effort](https://leetcode.com/problems/path-with-minimum-effort/) | **Medium** | [Binary Search](https://leetcode.com/tag/binary-search/) | 
-| [1641\. Count Sorted Vowel Strings](https://leetcode.com/problems/count-sorted-vowel-strings/) | **Medium** | [Math](https://leetcode.com/tag/math/) | 
-| [1642\. Furthest Building You Can Reach](https://leetcode.com/problems/furthest-building-you-can-reach/) | **Medium** | [Binary Search](https://leetcode.com/tag/binary-search/) | 
-| [1647\. Minimum Deletions to Make Character Frequencies Unique](https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique/) | **Medium** | [Greedy](https://leetcode.com/tag/greedy/) | 
-| [1653\. Minimum Deletions to Make String Balanced](https://leetcode.com/problems/minimum-deletions-to-make-string-balanced/) | **Medium** | [String](https://leetcode.com/tag/string/) | 
-| [1654\. Minimum Jumps to Reach Home](https://leetcode.com/problems/minimum-jumps-to-reach-home/) | **Medium** | [Dynamic Programming](https://leetcode.com/tag/dynamic-programming/) | 
-| [1669\. Merge In Between Linked Lists](https://leetcode.com/problems/merge-in-between-linked-lists/) | **Medium** | [Linked List](https://leetcode.com/tag/linked-list/) | 
+| [1. Two Sum](Array/1.md) | Easy | [Array](Array/) | 
+| [2. Add Two Numbers](LinkedList/2.md) | Medium | [Linked List](LinkedList/) | 
+| [3. Longest Substring Without Repeating Characters](HashTable/3.md) | Medium | [Hash Table](HashTable/) | 
+| [4. Median of Two Sorted Arrays](Array/4.md) | Hard | [Array](Array/) | 
+| [5. Longest Palindromic Substring](String/5.md) | Medium | [String](String/) | 
+| [10. Regular Expression Matching](String/10.md) | Hard | [String](String/) | 
+| [11. Container With Most Water](Array/11.md) | Medium | [Array](Array/) | 
+| [13. Roman to Integer](Math/13.md) | Easy | [Math](Math/) | 
+| [15. 3Sum](Array/15.md) | Medium | [Array](Array/) | 
+| [17. Letter Combinations of a Phone Number](String/17.md) | Medium | [String](String/) | 
+| [20. Valid Parentheses](String/20.md) | Easy | [String](String/) | 
+| [23. Merge k Sorted Lists](LinkedList/23.md) | Hard | [Linked List](LinkedList/) | 
+| [24. Swap Nodes in Pairs](LinkedList/24.md) | Medium | [Linked List](LinkedList/) | 
+| [31. Next Permutation](Array/31.md) | Medium | [Array](Array/) | 
+| [33. Search in Rotated Sorted Array](Array/33.md) | Medium | [Array](Array/) | 
+| [34. Find First and Last Position of Element in Sorted Array](Array/34.md) | Medium | [Array](Array/) | 
+| [39. Combination Sum](Array/39.md) | Medium | [Array](Array/) | 
+| [40. Combination Sum II](Array/40.md) | Medium | [Array](Array/) | 
+| [41. First Missing Positive](Array/41.md) | Hard | [Array](Array/) | 
+| [42. Trapping Rain Water](Array/42.md) | Hard | [Array](Array/) | 
+| [44. Wildcard Matching](String/44.md) | Hard | [String](String/) | 
+| [45. Jump Game II](Array/45.md) | Hard | [Array](Array/) | 
+| [46. Permutations](Backtracking/46.md) | Medium | [Backtracking](Backtracking/) | 
+| [47. Permutations II](Backtracking/47.md) | Medium | [Backtracking](Backtracking/) | 
+| [50. Pow(x, n)](Math/50.md) | Medium | [Math](Math/) | 
+| [53. Maximum Subarray](Array/53.md) | Easy | [Array](Array/) | 
+| [55. Jump Game](Array/55.md) | Medium | [Array](Array/) | 
+| [56. Merge Intervals](Array/56.md) | Medium | [Array](Array/) | 
+| [57. Insert Interval](Array/57.md) | Medium | [Array](Array/) | 
+| [62. Unique Paths](Array/62.md) | Medium | [Array](Array/) | 
+| [63. Unique Paths II](Array/63.md) | Medium | [Array](Array/) | 
+| [64. Minimum Path Sum](Array/64.md) | Medium | [Array](Array/) | 
+| [70. Climbing Stairs](DynamicProgramming/70.md) | Easy | [Dynamic Programming](DynamicProgramming/) | 
+| [72. Edit Distance](String/72.md) | Hard | [String](String/) | 
+| [73. Set Matrix Zeroes](Array/73.md) | Medium | [Array](Array/) | 
+| [76. Minimum Window Substring](HashTable/76.md) | Hard | [Hash Table](HashTable/) | 
+| [77. Combinations](Backtracking/77.md) | Medium | [Backtracking](Backtracking/) | 
+| [78. Subsets](Array/78.md) | Medium | [Array](Array/) | 
+| [81. Search in Rotated Sorted Array II](Array/81.md) | Medium | [Array](Array/) | 
+| [86. Partition List](LinkedList/86.md) | Medium | [Linked List](LinkedList/) | 
+| [90. Subsets II](Array/90.md) | Medium | [Array](Array/) | 
+| [91. Decode Ways](String/91.md) | Medium | [String](String/) | 
+| [92. Reverse Linked List II](LinkedList/92.md) | Medium | [Linked List](LinkedList/) | 
+| [94. Binary Tree Inorder Traversal](HashTable/94.md) | Medium | [Hash Table](HashTable/) | 
+| [95. Unique Binary Search Trees II](DynamicProgramming/95.md) | Medium | [Dynamic Programming](DynamicProgramming/) | 
+| [96. Unique Binary Search Trees](DynamicProgramming/96.md) | Medium | [Dynamic Programming](DynamicProgramming/) | 
+| [98. Validate Binary Search Tree](Tree/98.md) | Medium | [Tree](Tree/) | 
+| [102. Binary Tree Level Order Traversal](Tree/102.md) | Medium | [Tree](Tree/) | 
+| [103. Binary Tree Zigzag Level Order Traversal](Stack/103.md) | Medium | [Stack](Stack/) | 
+| [104. Maximum Depth of Binary Tree](Tree/104.md) | Easy | [Tree](Tree/) | 
+| [105. Construct Binary Tree from Preorder and Inorder Traversal](Array/105.md) | Medium | [Array](Array/) | 
+| [106. Construct Binary Tree from Inorder and Postorder Traversal](Array/106.md) | Medium | [Array](Array/) | 
+| [107. Binary Tree Level Order Traversal II](Tree/107.md) | Easy | [Tree](Tree/) | 
+| [111. Minimum Depth of Binary Tree](Tree/111.md) | Easy | [Tree](Tree/) | 
+| [112. Path Sum](Tree/112.md) | Easy | [Tree](Tree/) | 
+| [115. Distinct Subsequences](String/115.md) | Hard | [String](String/) | 
+| [116. Populating Next Right Pointers in Each Node](Tree/116.md) | Medium | [Tree](Tree/) | 
+| [121. Best Time to Buy and Sell Stock](Array/121.md) | Easy | [Array](Array/) | 
+| [122. Best Time to Buy and Sell Stock II](Array/122.md) | Easy | [Array](Array/) | 
+| [123. Best Time to Buy and Sell Stock III](Array/123.md) | Hard | [Array](Array/) | 
+| [124. Binary Tree Maximum Path Sum](Tree/124.md) | Hard | [Tree](Tree/) | 
+| [127. Word Ladder](Breadth-firstSearch/127.md) | Medium | [Breadth-first Search](Breadth-firstSearch/) | 
+| [129. Sum Root to Leaf Numbers](Tree/129.md) | Medium | [Tree](Tree/) | 
+| [130. Surrounded Regions](Depth-firstSearch/130.md) | Medium | [Depth-first Search](Depth-firstSearch/) | 
+| [131. Palindrome Partitioning](DynamicProgramming/131.md) | Medium | [Dynamic Programming](DynamicProgramming/) | 
+| [136. Single Number](HashTable/136.md) | Easy | [Hash Table](HashTable/) | 
+| [138. Copy List with Random Pointer](HashTable/138.md) | Medium | [Hash Table](HashTable/) | 
+| [141. Linked List Cycle](LinkedList/141.md) | Easy | [Linked List](LinkedList/) | 
+| [142. Linked List Cycle II](LinkedList/142.md) | Medium | [Linked List](LinkedList/) | 
+| [143. Reorder List](LinkedList/143.md) | Medium | [Linked List](LinkedList/) | 
+| [144. Binary Tree Preorder Traversal](Stack/144.md) | Medium | [Stack](Stack/) | 
+| [145. Binary Tree Postorder Traversal](Stack/145.md) | Medium | [Stack](Stack/) | 
+| [146. LRU Cache](Design/146.md) | Medium | [Design](Design/) | 
+| [149. Max Points on a Line](HashTable/149.md) | Hard | [Hash Table](HashTable/) | 
+| [152. Maximum Product Subarray](Array/152.md) | Medium | [Array](Array/) | 
+| [153. Find Minimum in Rotated Sorted Array](Array/153.md) | Medium | [Array](Array/) | 
+| [154. Find Minimum in Rotated Sorted Array II](Array/154.md) | Hard | [Array](Array/) | 
+| [162. Find Peak Element](Array/162.md) | Medium | [Array](Array/) | 
+| [167. Two Sum II - Input array is sorted](Array/167.md) | Easy | [Array](Array/) | 
+| [169. Majority Element](Array/169.md) | Easy | [Array](Array/) | 
+| [173. Binary Search Tree Iterator](Stack/173.md) | Medium | [Stack](Stack/) | 
+| [179. Largest Number](Sort/179.md) | Medium | [Sort](Sort/) | 
+| [188. Best Time to Buy and Sell Stock IV](DynamicProgramming/188.md) | Hard | [Dynamic Programming](DynamicProgramming/) | 
+| [190. Reverse Bits](BitManipulation/190.md) | Easy | [Bit Manipulation](BitManipulation/) | 
+| [191. Number of 1 Bits](BitManipulation/191.md) | Easy | [Bit Manipulation](BitManipulation/) | 
+| [198. House Robber](DynamicProgramming/198.md) | Easy | [Dynamic Programming](DynamicProgramming/) | 
+| [199. Binary Tree Right Side View](Tree/199.md) | Medium | [Tree](Tree/) | 
+| [200. Number of Islands](Depth-firstSearch/200.md) | Medium | [Depth-first Search](Depth-firstSearch/) | 
+| [204. Count Primes](HashTable/204.md) | Easy | [Hash Table](HashTable/) | 
+| [206. Reverse Linked List](LinkedList/206.md) | Easy | [Linked List](LinkedList/) | 
+| [207. Course Schedule](Depth-firstSearch/207.md) | Medium | [Depth-first Search](Depth-firstSearch/) | 
+| [209. Minimum Size Subarray Sum](Array/209.md) | Medium | [Array](Array/) | 
+| [210. Course Schedule II](Depth-firstSearch/210.md) | Medium | [Depth-first Search](Depth-firstSearch/) | 
+| [215. Kth Largest Element in an Array](DivideandConquer/215.md) | Medium | [Divide and Conquer](DivideandConquer/) | 
+| [221. Maximal Square](DynamicProgramming/221.md) | Medium | [Dynamic Programming](DynamicProgramming/) | 
+| [227. Basic Calculator II](String/227.md) | Medium | [String](String/) | 
+| [229. Majority Element II](Array/229.md) | Medium | [Array](Array/) | 
+| [230. Kth Smallest Element in a BST](BinarySearch/230.md) | Medium | [Binary Search](BinarySearch/) | 
+| [236. Lowest Common Ancestor of a Binary Tree](Tree/236.md) | Medium | [Tree](Tree/) | 
+| [239. Sliding Window Maximum](Heap/239.md) | Hard | [Heap](Heap/) | 
+| [257. Binary Tree Paths](Tree/257.md) | Easy | [Tree](Tree/) | 
+| [263. Ugly Number](Math/263.md) | Easy | [Math](Math/) | 
+| [264. Ugly Number II](Math/264.md) | Medium | [Math](Math/) | 
+| [268. Missing Number](Array/268.md) | Easy | [Array](Array/) | 
+| [278. First Bad Version](BinarySearch/278.md) | Easy | [Binary Search](BinarySearch/) | 
+| [279. Perfect Squares](Math/279.md) | Medium | [Math](Math/) | 
+| [287. Find the Duplicate Number](Array/287.md) | Medium | [Array](Array/) | 
+| [295. Find Median from Data Stream](Heap/295.md) | Hard | [Heap](Heap/) | 
+| [299. Bulls and Cows](HashTable/299.md) | Medium | [Hash Table](HashTable/) | 
+| [300. Longest Increasing Subsequence](BinarySearch/300.md) | Medium | [Binary Search](BinarySearch/) | 
+| [310. Minimum Height Trees](Breadth-firstSearch/310.md) | Medium | [Breadth-first Search](Breadth-firstSearch/) | 
+| [316. Remove Duplicate Letters](String/316.md) | Medium | [String](String/) | 
+| [322. Coin Change](DynamicProgramming/322.md) | Medium | [Dynamic Programming](DynamicProgramming/) | 
+| [328. Odd Even Linked List](LinkedList/328.md) | Medium | [Linked List](LinkedList/) | 
+| [338. Counting Bits](DynamicProgramming/338.md) | Medium | [Dynamic Programming](DynamicProgramming/) | 
+| [377. Combination Sum IV](DynamicProgramming/377.md) | Medium | [Dynamic Programming](DynamicProgramming/) | 
+| [389. Find the Difference](HashTable/389.md) | Easy | [Hash Table](HashTable/) | 
+| [392. Is Subsequence](BinarySearch/392.md) | Easy | [Binary Search](BinarySearch/) | 
+| [416. Partition Equal Subset Sum](DynamicProgramming/416.md) | Medium | [Dynamic Programming](DynamicProgramming/) | 
+| [429. N-ary Tree Level Order Traversal](Tree/429.md) | Medium | [Tree](Tree/) | 
+| [435. Non-overlapping Intervals](Greedy/435.md) | Medium | [Greedy](Greedy/) | 
+| [437. Path Sum III](Tree/437.md) | Medium | [Tree](Tree/) | 
+| [442. Find All Duplicates in an Array](Array/442.md) | Medium | [Array](Array/) | 
+| [449. Serialize and Deserialize BST](Tree/449.md) | Medium | [Tree](Tree/) | 
+| [450. Delete Node in a BST](Tree/450.md) | Medium | [Tree](Tree/) | 
+| [455. Assign Cookies](Greedy/455.md) | Easy | [Greedy](Greedy/) | 
+| [459. Repeated Substring Pattern](String/459.md) | Easy | [String](String/) | 
+| [461. Hamming Distance](BitManipulation/461.md) | Easy | [Bit Manipulation](BitManipulation/) | 
+| [496. Next Greater Element I](Stack/496.md) | Easy | [Stack](Stack/) | 
+| [503. Next Greater Element II](Stack/503.md) | Medium | [Stack](Stack/) | 
+| [513. Find Bottom Left Tree Value](Tree/513.md) | Medium | [Tree](Tree/) | 
+| [515. Find Largest Value in Each Tree Row](Tree/515.md) | Medium | [Tree](Tree/) | 
+| [516. Longest Palindromic Subsequence](DynamicProgramming/516.md) | Medium | [Dynamic Programming](DynamicProgramming/) | 
+| [523. Continuous Subarray Sum](Math/523.md) | Medium | [Math](Math/) | 
+| [540. Single Element in a Sorted Array](BinarySearch/540.md) | Medium | [Binary Search](BinarySearch/) | 
+| [542. 01 Matrix](Depth-firstSearch/542.md) | Medium | [Depth-first Search](Depth-firstSearch/) | 
+| [560. Subarray Sum Equals K](Array/560.md) | Medium | [Array](Array/) | 
+| [576. Out of Boundary Paths](DynamicProgramming/576.md) | Medium | [Dynamic Programming](DynamicProgramming/) | 
+| [581. Shortest Unsorted Continuous Subarray](Array/581.md) | Medium | [Array](Array/) | 
+| [621. Task Scheduler](Array/621.md) | Medium | [Array](Array/) | 
+| [637. Average of Levels in Binary Tree](Tree/637.md) | Easy | [Tree](Tree/) | 
+| [653. Two Sum IV - Input is a BST](Tree/653.md) | Easy | [Tree](Tree/) | 
+| [654. Maximum Binary Tree](Tree/654.md) | Medium | [Tree](Tree/) | 
+| [662. Maximum Width of Binary Tree](Tree/662.md) | Medium | [Tree](Tree/) | 
+| [665. Non-decreasing Array](Array/665.md) | Easy | [Array](Array/) | 
+| [670. Maximum Swap](Array/670.md) | Medium | [Array](Array/) | 
+| [673. Number of Longest Increasing Subsequence](DynamicProgramming/673.md) | Medium | [Dynamic Programming](DynamicProgramming/) | 
+| [684. Redundant Connection](Tree/684.md) | Medium | [Tree](Tree/) | 
+| [687. Longest Univalue Path](Tree/687.md) | Medium | [Tree](Tree/) | 
+| [693. Binary Number with Alternating Bits](BitManipulation/693.md) | Easy | [Bit Manipulation](BitManipulation/) | 
+| [701. Insert into a Binary Search Tree](Tree/701.md) | Medium | [Tree](Tree/) | 
+| [704. Binary Search](BinarySearch/704.md) | Easy | [Binary Search](BinarySearch/) | 
+| [709. To Lower Case](String/709.md) | Easy | [String](String/) | 
+| [713. Subarray Product Less Than K](Array/713.md) | Medium | [Array](Array/) | 
+| [718. Maximum Length of Repeated Subarray](Array/718.md) | Medium | [Array](Array/) | 
+| [724. Find Pivot Index](Array/724.md) | Easy | [Array](Array/) | 
+| [731. My Calendar II](OrderedMap/731.md) | Medium | [Ordered Map](OrderedMap/) | 
+| [743. Network Delay Time](Heap/743.md) | Medium | [Heap](Heap/) | 
+| [746. Min Cost Climbing Stairs](Array/746.md) | Easy | [Array](Array/) | 
+| [763. Partition Labels](TwoPointers/763.md) | Medium | [Two Pointers](TwoPointers/) | 
+| [766. Toeplitz Matrix](Array/766.md) | Easy | [Array](Array/) | 
+| [784. Letter Case Permutation](Backtracking/784.md) | Medium | [Backtracking](Backtracking/) | 
+| [785. Is Graph Bipartite?](Depth-firstSearch/785.md) | Medium | [Depth-first Search](Depth-firstSearch/) | 
+| [787. Cheapest Flights Within K Stops](DynamicProgramming/787.md) | Medium | [Dynamic Programming](DynamicProgramming/) | 
+| [797. All Paths From Source to Target](Backtracking/797.md) | Medium | [Backtracking](Backtracking/) | 
+| [802. Find Eventual Safe States](Depth-firstSearch/802.md) | Medium | [Depth-first Search](Depth-firstSearch/) | 
+| [814. Binary Tree Pruning](Tree/814.md) | Medium | [Tree](Tree/) | 
+| [841. Keys and Rooms](Depth-firstSearch/841.md) | Medium | [Depth-first Search](Depth-firstSearch/) | 
+| [848. Shifting Letters](String/848.md) | Medium | [String](String/) | 
+| [859. Buddy Strings](String/859.md) | Easy | [String](String/) | 
+| [860. Lemonade Change](Greedy/860.md) | Easy | [Greedy](Greedy/) | 
+| [863. All Nodes Distance K in Binary Tree](Tree/863.md) | Medium | [Tree](Tree/) | 
+| [876. Middle of the Linked List](LinkedList/876.md) | Easy | [Linked List](LinkedList/) | 
+| [901. Online Stock Span](Stack/901.md) | Medium | [Stack](Stack/) | 
+| [907. Sum of Subarray Minimums](Array/907.md) | Medium | [Array](Array/) | 
+| [918. Maximum Sum Circular Subarray](Array/918.md) | Medium | [Array](Array/) | 
+| [921. Minimum Add to Make Parentheses Valid](Stack/921.md) | Medium | [Stack](Stack/) | 
+| [935. Knight Dialer](DynamicProgramming/935.md) | Medium | [Dynamic Programming](DynamicProgramming/) | 
+| [938. Range Sum of BST](Tree/938.md) | Easy | [Tree](Tree/) | 
+| [939. Minimum Area Rectangle](HashTable/939.md) | Medium | [Hash Table](HashTable/) | 
+| [940. Distinct Subsequences II](DynamicProgramming/940.md) | Hard | [Dynamic Programming](DynamicProgramming/) | 
+| [941. Valid Mountain Array](Array/941.md) | Easy | [Array](Array/) | 
+| [951. Flip Equivalent Binary Trees](Tree/951.md) | Medium | [Tree](Tree/) | 
+| [968. Binary Tree Cameras](DynamicProgramming/968.md) | Hard | [Dynamic Programming](DynamicProgramming/) | 
+| [974. Subarray Sums Divisible by K](Array/974.md) | Medium | [Array](Array/) | 
+| [979. Distribute Coins in Binary Tree](Tree/979.md) | Medium | [Tree](Tree/) | 
+| [981. Time Based Key-Value Store](HashTable/981.md) | Medium | [Hash Table](HashTable/) | 
+| [997. Find the Town Judge](Graph/997.md) | Easy | [Graph](Graph/) | 
+| [1008. Construct Binary Search Tree from Preorder Traversal](Tree/1008.md) | Medium | [Tree](Tree/) | 
+| [1019. Next Greater Node In Linked List](LinkedList/1019.md) | Medium | [Linked List](LinkedList/) | 
+| [1025. Divisor Game](Math/1025.md) | Easy | [Math](Math/) | 
+| [1026. Maximum Difference Between Node and Ancestor](Tree/1026.md) | Medium | [Tree](Tree/) | 
+| [1043. Partition Array for Maximum Sum](DynamicProgramming/1043.md) | Medium | [Dynamic Programming](DynamicProgramming/) | 
+| [1081. Smallest Subsequence of Distinct Characters](String/1081.md) | Medium | [String](String/) | 
+| [1094. Car Pooling](Greedy/1094.md) | Medium | [Greedy](Greedy/) | 
+| [1104. Path In Zigzag Labelled Binary Tree](Math/1104.md) | Medium | [Math](Math/) | 
+| [1130. Minimum Cost Tree From Leaf Values](DynamicProgramming/1130.md) | Medium | [Dynamic Programming](DynamicProgramming/) | 
+| [1143. Longest Common Subsequence](DynamicProgramming/1143.md) | Medium | [Dynamic Programming](DynamicProgramming/) | 
+| [1161. Maximum Level Sum of a Binary Tree](Tree/1161.md) | Medium | [Tree](Tree/) | 
+| [1171. Remove Zero Sum Consecutive Nodes from Linked List](LinkedList/1171.md) | Medium | [Linked List](LinkedList/) | 
+| [1186. Maximum Subarray Sum with One Deletion](DynamicProgramming/1186.md) | Medium | [Dynamic Programming](DynamicProgramming/) | 
+| [1191. K-Concatenation Maximum Sum](DynamicProgramming/1191.md) | Medium | [Dynamic Programming](DynamicProgramming/) | 
+| [1221. Split a String in Balanced Strings](String/1221.md) | Easy | [String](String/) | 
+| [1222. Queens That Can Attack the King](Array/1222.md) | Medium | [Array](Array/) | 
+| [1261. Find Elements in a Contaminated Binary Tree](HashTable/1261.md) | Medium | [Hash Table](HashTable/) | 
+| [1267. Count Servers that Communicate](Array/1267.md) | Medium | [Array](Array/) | 
+| [1290. Convert Binary Number in a Linked List to Integer](LinkedList/1290.md) | Easy | [Linked List](LinkedList/) | 
+| [1302. Deepest Leaves Sum](Tree/1302.md) | Medium | [Tree](Tree/) | 
+| [1305. All Elements in Two Binary Search Trees](Sort/1305.md) | Medium | [Sort](Sort/) | 
+| [1315. Sum of Nodes with Even-Valued Grandparent](Tree/1315.md) | Medium | [Tree](Tree/) | 
+| [1319. Number of Operations to Make Network Connected](Depth-firstSearch/1319.md) | Mediu | [Depth-first Search](Depth-firstSearch/) | 
+| [1325. Delete Leaves With a Given Value](Tree/1325.md) | Medium | [Tree](Tree/) | 
+| [1338. Reduce Array Size to The Half](Array/1338.md) | Medium | [Array](Array/) | 
+| [1339. Maximum Product of Splitted Binary Tree](DynamicProgramming/1339.md) | Medium | [Dynamic Programming](DynamicProgramming/) | 
+| [1342. Number of Steps to Reduce a Number to Zero](BitManipulation/1342.md) | Easy | [Bit Manipulation](BitManipulation/) | 
+| [1344. Angle Between Hands of a Clock](Math/1344.md) | Medium | [Math](Math/) | 
+| [1352. Product of the Last K Numbers](Array/1352.md) | Medium | [Array](Array/) | 
+| [1376. Time Needed to Inform All Employees](Depth-firstSearch/1376.md) | Medium | [Depth-first Search](Depth-firstSearch/) | 
+| [1381. Design a Stack With Increment Operation](Stack/1381.md) | Medium | [Stack](Stack/) | 
+| [1395. Count Number of Teams](Array/1395.md) | Medium | [Array](Array/) | 
+| [1405. Longest Happy String](DynamicProgramming/1405.md) | Medium | [Dynamic Programming](DynamicProgramming/) | 
+| [1431. Kids With the Greatest Number of Candies](Array/1431.md) | Easy | [Array](Array/) | 
+| [1448. Count Good Nodes in Binary Tree](Tree/1448.md) | Medium | [Tree](Tree/) | 
+| [1462. Course Schedule IV](Graph/1462.md) | Medium | [Graph](Graph/) | 
+| [1465. Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts](Array/1465.md) | Medium | [Array](Array/) | 
+| [1470. Shuffle the Array](Array/1470.md) | Easy | [Array](Array/) | 
+| [1480. Running Sum of 1d Array](Array/1480.md) | Easy | [Array](Array/) | 
+| [1492. The kth Factor of n](Math/1492.md) | Medium | [Math](Math/) | 
+| [1540. Can Convert String in K Moves](String/1540.md) | Medium | [String](String/) | 
+| [1551. Minimum Operations to Make Array Equal](Math/1551.md) | Medium | [Math](Math/) | 
+| [1557. Minimum Number of Vertices to Reach All Nodes](Graph/1557.md) | Medium | [Graph](Graph/) | 
+| [1574. Shortest Subarray to be Removed to Make Array Sorted](Array/1574.md) | Medium | [Array](Array/) | 
+| [1578. Minimum Deletion Cost to Avoid Repeating Letters](Greedy/1578.md) | Medium | [Greedy](Greedy/) | 
+| [1594. Maximum Non Negative Product in a Matrix](DynamicProgramming/1594.md) | Medium | [Dynamic Programming](DynamicProgramming/) | 
+| [1609. Even Odd Tree](Tree/1609.md) | Medium | [Tree](Tree/) | 
+| [1626. Best Team With No Conflicts](DynamicProgramming/1626.md) | Medium | [Dynamic Programming](DynamicProgramming/) | 
+| [1631. Path With Minimum Effort](BinarySearch/1631.md) | Medium | [Binary Search](BinarySearch/) | 
+| [1641. Count Sorted Vowel Strings](Math/1641.md) | Medium | [Math](Math/) | 
+| [1642. Furthest Building You Can Reach](BinarySearch/1642.md) | Medium | [Binary Search](BinarySearch/) | 
+| [1647. Minimum Deletions to Make Character Frequencies Unique](Greedy/1647.md) | Medium | [Greedy](Greedy/) | 
+| [1653. Minimum Deletions to Make String Balanced](String/1653.md) | Medium | [String](String/) | 
+| [1654. Minimum Jumps to Reach Home](DynamicProgramming/1654.md) | Medium | [Dynamic Programming](DynamicProgramming/) | 
+| [1669. Merge In Between Linked Lists](LinkedList/1669.md) | Medium | [Linked List](LinkedList/) | 
 
 <br><br><br>Index created using indexer script
